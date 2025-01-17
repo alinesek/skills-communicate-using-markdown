@@ -13,3 +13,7 @@ echo "A soma de dois números interios é igual a = ". $soma;
 
 ````
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
